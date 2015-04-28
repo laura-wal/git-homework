@@ -1,0 +1,5 @@
+How do you create a new git repository locally?
+How would you find out what files are currently staged?
+How would you add a file to the staging area?
+How would you commit your changes with the message
+Adding git-test questions ?

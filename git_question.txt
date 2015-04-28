@@ -4,6 +4,8 @@
 2. How would you find out what files are currently staged?
 - type in git status (I would just use the up arrow key)
 
-How would you add a file to the staging area?
+3. How would you add a file to the staging area?
+- I would type git add . (this wouyld add all files in the folder to the staging area)
+
 How would you commit your changes with the message
 Adding git-test questions ?

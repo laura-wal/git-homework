@@ -1,7 +1,9 @@
-How do you create a new git repository locally?
+1. How do you create a new git repository locally?
 - Create a file then type - git init
 
-How would you find out what files are currently staged?
+2. How would you find out what files are currently staged?
+- type in git status (I would just use the up arrow key)
+
 How would you add a file to the staging area?
 How would you commit your changes with the message
 Adding git-test questions ?
